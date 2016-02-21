@@ -5,6 +5,7 @@ A simple 2D graphics driver for [Benzene][benzene] using [Glutin][glutin],
 [glutin]: https://github.com/tomaka/glutin
 [glium]: https://github.com/tomaka/glium
 [piston]: http://www.piston.rs
+[elmesque]: https://github.com/mitchmindtree/elmesque
 
 ## License
 
