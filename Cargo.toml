@@ -1,11 +1,15 @@
 [package]
-name = "carboxyl-2d"
+name = "benzene-2d"
 version = "0.0.1"
 authors = ["Eduard Bopp <eduard.bopp@aepsil0n.de>"]
+repository = "https://github.com/aepsil0n/benzene-2d"
+description = "Simple 2D graphics driver for Benzene"
+license = "LGPL-3.0+"
 
 [dependencies]
 carboxyl = "0.2"
 carboxyl_window = "0.0.3"
+benzene = "0.1"
 glutin = "0.4"
 shader_version = "0.2"
 pistoncore-glutin_window = "0.20"
@@ -14,4 +18,3 @@ piston2d-glium_graphics = "0.19"
 elmesque = "0.12"
 glium = "0.13"
 piston = "0.17"
-benzene = "0.1"
