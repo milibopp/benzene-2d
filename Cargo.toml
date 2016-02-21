@@ -1,6 +1,6 @@
 [package]
 name = "benzene-2d"
-version = "0.0.1"
+version = "0.1.0"
 authors = ["Eduard Bopp <eduard.bopp@aepsil0n.de>"]
 repository = "https://github.com/aepsil0n/benzene-2d"
 description = "Simple 2D graphics driver for Benzene"
